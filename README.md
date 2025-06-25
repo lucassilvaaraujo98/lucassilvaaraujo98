@@ -1,31 +1,31 @@
-<h1 align="center">Olá! Eu sou o Lucas 👨‍💻</h1>
+<h1 align="center">Hi there! I'm Lucas 👨‍💻</h1>
 <p align="center">
-  Estudante de Engenharia de Software | Backend e Fullstack 
+  Software Engineering Student | Backend and Fullstack Developer
 </p>
 
 ---
 
-### 🧠 Sobre mim
-- 🎓 Estudante de **Engenharia de Software** (metade do curso)
-- 🚀 Focado em desenvolvimento **Java/Spring**
-- 🌱 Aprendendo mais sobre **arquitetura de software**, **banco de dados** e **boas práticas**
-- 💼 Aberto a oportunidades de trabalho ou projetos colaborativos
-- 🛠️ Tecnologias que utilizo:
+### 🧠 About Me
+- 🎓 Currently studying **Software Engineering** (halfway through the degree)
+- 🚀 Focused on **Java/Spring** backend development
+- 🌱 Learning more about **software architecture**, **databases**, and **best practices**
+- 💼 Open to work opportunities and collaborative projects
+- 🛠️ Technologies I work with:
   - Java, Spring Boot, Thymeleaf
   - Docker
-  - APIs REST, Postman
+  - REST APIs, Postman
   - HTML, CSS, JavaScript
   - SQL (PostgreSQL, MySQL), MongoDB
   - Python
 
 ---
 
-### 🔧 Projetos em destaque
+### 🔧 Featured Projects
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [API REST](https://github.com/lucassilvaaraujo98/demorest) | Java, Spring Boot | API REST para gerenciamento de tarefas |
-| [Mountain Shooter](https://github.com/lucassilvaaraujo98/demorest) | Python, Pygame | Implementação de movimentação, disparo, colisão, pontuação e lógica de jogo |
+| Project | Technologies | Description |
+|--------|-------------|-------------|
+| [API REST](https://github.com/lucassilvaaraujo98/demorest) | Java, Spring Boot | RESTful API for task management |
+| [Mountain Shooter](https://github.com/lucassilvaaraujo98/demorest) | Python, Pygame | Game logic implementation including movement, shooting, collision, and scoring |
 
 ---
 
@@ -38,8 +38,8 @@
 
 ---
 
-### 🌐 Contato
+### 🌐 Contact
 
-- [LinkedIn](linkedin.com/in/lucas-araujo-51111b1a5/)  
+- [LinkedIn](https://linkedin.com/in/lucas-araujo-51111b1a5/)  
 - Email: araujo.lucas.1998@gmail.com  
-- Repositórios em destaque aqui no GitHub 📌  
+- Featured repositories available here on GitHub 📌

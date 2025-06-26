@@ -25,7 +25,7 @@
 | Project | Technologies | Description |
 |--------|-------------|-------------|
 | [API REST](https://github.com/lucassilvaaraujo98/demorest) | Java, Spring Boot | RESTful API for task management |
-| [Mountain Shooter](https://github.com/lucassilvaaraujo98/demorest) | Python, Pygame | Game logic implementation including movement, shooting, collision, and scoring |
+| [Mountain Shooter](https://github.com/lucassilvaaraujo98/MountainShooter) | Python, Pygame | Game logic implementation including movement, shooting, collision, and scoring |
 
 ---
 

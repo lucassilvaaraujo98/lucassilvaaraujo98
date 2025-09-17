@@ -23,11 +23,10 @@
 ### 🔧 Featured Projects
 
 | Project | Technologies | Description |
-|--------|-------------|-------------|
-
+|---------|-------------|-------------|
 | [API REST](https://github.com/lucassilvaaraujo98/demorest) | Java, Spring Boot | RESTful API for task management |
-| [Mountain Shooter](https://github.com/lucassilvaaraujo98/MountainShooter) | Python, Pygame | Game logic implementation including movement, shooting, collision, and scoring |
-| [Register Products] - CRUD](https://github.com/lucassilvaaraujo98/CRUDProdutos) | C#, Winforms | CRUD Project with interface |
+| [Mountain Shooter](https://github.com/lucassilvaaraujo98/MountainShooter) | Python, Pygame | Game logic including movement, shooting, collision, and scoring |
+| [Register Products - CRUD](https://github.com/lucassilvaaraujo98/CRUDProdutos) | C#, WinForms | CRUD application with user-friendly interface for managing products |
 
 ---
 

@@ -27,7 +27,7 @@
 
 | [API REST](https://github.com/lucassilvaaraujo98/demorest) | Java, Spring Boot | RESTful API for task management |
 | [Mountain Shooter](https://github.com/lucassilvaaraujo98/MountainShooter) | Python, Pygame | Game logic implementation including movement, shooting, collision, and scoring |
-| [Register Products - CRUD](https://github.com/lucassilvaaraujo98/CRUDProdutos) | C#, Winforms | CRUD Project with interface |
+| [Register Products] - CRUD](https://github.com/lucassilvaaraujo98/CRUDProdutos) | C#, Winforms | CRUD Project with interface |
 
 ---
 
